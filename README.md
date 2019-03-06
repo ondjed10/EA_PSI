@@ -1,16 +1,12 @@
 # EA_PSI
 
-TODO:
-- popis k zdrojom, akterom, ich persony
-- podiel prace
-- spraviť úvod a tie veci na začiatku asi
+Lubos TODO:
+- Spraviť popis k mojim 2 procesom
+- Spravit 3 persony aktérov(korektor, redaktor, sefredaktor)
+- Prehlad dokumentu
+- ucel a rozsah
 
-
-Moje TODO:
-- Spraviť popis k mojim 3 procesom
-- Spravit popis zdrojov
-- Spravit 3 persony aktérov
-
-Tvoje TODO:
-- Spravit 2 procesy, popis k nim, plavecke drahy
-- Spraviť 3 persony aktérov
+Ondrej TODO:
+- Opravit 1 process, popis k 3
+- zdroje, notacia
+- Spraviť 4 persony aktérov (moderator, marketing, zakaznik, citatel)
