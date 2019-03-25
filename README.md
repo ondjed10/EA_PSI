@@ -9,3 +9,7 @@ Lubos TODO:
 
 Ondrej TODO:
 
+- namapovat UC na aktivity
+- podrobnejsie opisat dolezite UC (google docy)
+- akteri, ostatne UC  strucne napisat
+
