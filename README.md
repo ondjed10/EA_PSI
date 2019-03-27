@@ -1,25 +1,29 @@
 # EA_PSI
-25.3. 23:40 - vygenerovana doc.
+26.3. 23:45 - vygenerovana doc.
 
 Ondro DONE:
-- revizia, slovnik pojmov, drobna uprava diagramov
-- diagramy pripadov pouzitia pre BP04 a BP05
-- UC z BP04, BP05 namapovane na aktivity z procesov cez Relationship matrix
-- Hlavny scenar k UC Citaj clanok
+- obrazovky k UC
+- hlavne aj alternativne scenare k UC
+- strucne opisy UC k BP04, 05, 03
+- diagramy UC pre vsetky BP
+- include, extend, generalizacia...len pre moje, svoje si kukni :D
 
 
 
 Lubos TODO:
 - dopisat svojich aktérov
-- namapovat na aktivity(zistit ako)
-- vytvorit popis k UC a ich obrazovky
-
+- napis si reviziu svojich zmien z 1.etapy...neviem, co si tam presne zmenil
+- neviem, ci mas predpoklady, dosledky a kratke opisy ku kazdemu svojmu UC
+- kukni ten BP03, ci tam este nenajdes este nejaky UC, lebo mat tam len 1 je celkom trapas :D 
+- dopisat akterov
 
 Ondrej TODO:
 
-- obrazovky k UC
-- strucne opisat UC k BP04
-- alternativne scenare
-- generalizacia vyhladavania
-- include, extend vztahy
+- trololo BP03 UC diagram...tam tie from package...
+- pravopis
+- spisat svoju cast revizie
+- dopisat akterov
+
+
+Ak ti este nieco napadne, tak dopis :D 
 
