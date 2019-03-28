@@ -1,5 +1,4 @@
 # EA_PSI
-26.3. 23:45 - vygenerovana doc.
 
 Ondro DONE:
 - obrazovky k UC
@@ -8,22 +7,28 @@ Ondro DONE:
 - diagramy UC pre vsetky BP
 - include, extend, generalizacia...len pre moje, svoje si kukni :D
 
-
+Lubos DONE:
+- obrazovky k UC
+- opisy akterov (redaktor, mark. prac., sefredaktor, korektorka)
+- opisy vsetkych UC
+- prekpoklady a opisy UC
+- pridanie UC06 do BP02 a vztah extend
+- napisanie revizie
+- trololo BP03 UC diagram...tam tie from package... -- fixed
 
 Lubos TODO:
-- dopisat svojich aktérov
-- napis si reviziu svojich zmien z 1.etapy...neviem, co si tam presne zmenil
-- neviem, ci mas predpoklady, dosledky a kratke opisy ku kazdemu svojmu UC
-- kukni ten BP03, ci tam este nenajdes este nejaky UC, lebo mat tam len 1 je celkom trapas :D 
-- dopisat akterov
 
 Ondrej TODO:
-
-- trololo BP03 UC diagram...tam tie from package...
+- skontroluj tabulku prace ci suhlasis
+- Pri niektorych ti chyba predpoklad a dosledok(post-condition to je)
 - pravopis
-- spisat svoju cast revizie
-- dopisat akterov
+- dopisat akterov(moderator, platobna brana, cas, citatel)
+- skontroluj moj include v BP01 a extend v BP02, podla videa v pohode
+
+- spisat svoju cast revizie -- ja som ju pisal, mala by byt hotova
 
 
-Ak ti este nieco napadne, tak dopis :D 
+
+# pred odovzdanim musime upravit word aby to bolo pekne na strany zarovnane. 
+EA som sa snazil zmensit vsetky diagramy ktore boli vacsie ako 1 strana.
 
