@@ -6,6 +6,10 @@ Ondro DONE:
 - strucne opisy UC k BP04, 05, 03
 - diagramy UC pre vsetky BP
 - include, extend, generalizacia...len pre moje, svoje si kukni :D
+- predpoklady, dosledky...pozn. pri citaj a vyhladaj clanok nie je nutne mat niejaky specificky predpoklad IMHO :D 
+- tabulku som trochu zmenil...v jednom bode som ti pridal 5% :D
+- opravene ciarky a bodky
+- pridany diagram vztahu pouzivatelov
 
 Lubos DONE:
 - obrazovky k UC
@@ -19,13 +23,6 @@ Lubos DONE:
 Lubos TODO:
 
 Ondrej TODO:
-- skontroluj tabulku prace ci suhlasis
-- Pri niektorych ti chyba predpoklad a dosledok(post-condition to je)
-- pravopis
-- dopisat akterov(moderator, platobna brana, cas, citatel)
-- skontroluj moj include v BP01 a extend v BP02, podla videa v pohode
-
-- spisat svoju cast revizie -- ja som ju pisal, mala by byt hotova
 
 
 
