@@ -21,10 +21,17 @@ Lubos DONE:
 - trololo BP03 UC diagram...tam tie from package... -- fixed
 
 Lubos TODO:
+- sekvecne diagramy pre vlastne UC
+- opravit komentare
+- Commented [MK20]: Chýba vytvorenie inzercie, UC pre inzerenta, ktorý si môže napr. pozrieť možnostiinzercie, potom zadať inzerciu. Až potom ju
+marketingový pracovník schváli. 
+- inzerent moze vytvorit reklamu cez portal -> NOVY UC
+- diagramy tried pre vlastne UC
 
 Ondrej TODO:
-
-
+- sekvecne diagramy pre vlastne UC
+- diagramy tried pre vlastne UC
+- opravit komentare
 
 # pred odovzdanim musime upravit word aby to bolo pekne na strany zarovnane. 
 EA som sa snazil zmensit vsetky diagramy ktore boli vacsie ako 1 strana.
