@@ -1,9 +1,10 @@
 # EA_PSI
 
-last commit 21:37 negeneroval som doc.
+last commit 22:56 negeneroval som doc.
 
 Ondrej DONE:
 - revizia pre svoje UC
+- sekvencne diagramy pre UC11 a 12
 
 
 Lubos TODO:
