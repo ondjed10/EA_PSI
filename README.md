@@ -1,11 +1,11 @@
 # EA_PSI
 
-last commit 22:56 negeneroval som doc.
+last commit 9.4.2019 13:18 negeneroval som doc.
 
 Ondrej DONE:
 - revizia pre svoje UC
 - sekvencne diagramy pre UC11 a 12
-
+- model udajov pre system
 
 Lubos TODO:
 - sekvecne diagramy pre vlastne UC
@@ -21,3 +21,4 @@ Ondrej TODO:
 
 
 Q1: mam rozdelit citatelov na registrovanych a neregistrovanych a potom do generalizovat do citatela?
+Q2: moze byt cas ako entita v modeli udajov?
