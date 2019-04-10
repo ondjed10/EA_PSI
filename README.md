@@ -1,6 +1,6 @@
 # EA_PSI
 
-last commit 9.4.2019 13:18 negeneroval som doc.
+last commit 10.4.2019 9:06 negeneroval som doc.
 
 Ondrej DONE:
 - revizia pre svoje UC
@@ -16,12 +16,12 @@ marketingový pracovník schváli.
 Lubos TODO:
 - sekvecne diagramy pre vlastne UC (pokus o 1)
 - diagramy tried pre vlastne UC (1 hotovy asi)
+- ciastkove modely udajov
 
 Ondrej TODO:
 - sekvecne diagramy pre vlastne UC
 - diagramy tried pre vlastne UC
+- ciastkove modely udajov
 
 
-Q1: mam rozdelit citatelov na registrovanych a neregistrovanych a potom do generalizovat do citatela?
-Q2: moze byt cas ako entita v modeli udajov?
-Q3: Kedy a ako ukončovať elementy sekvencii?
+
