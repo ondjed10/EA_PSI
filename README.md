@@ -6,6 +6,7 @@ Ondrej DONE:
 - revizia pre svoje UC
 - sekvencne diagramy pre UC11 a 12
 - model udajov pre system
+- kapitola Dalsie poziadavky
 
 Ľuboš DONE:
 - opravit komentare
@@ -15,15 +16,20 @@ marketingový pracovník schváli.
 - model udajov pre system
 - modely udajov pre BP01,BP02,BP03
 
+
 Lubos TODO:
 - sekvecne diagramy pre vlastne UC chýba len pre UC06
 - diagramy tried pre vlastne UC pre všetky
+- upravit model udajov podla toho na cviku
 
 Ondrej TODO:
 - sekvecne diagramy pre vlastne UC
 - diagramy tried pre vlastne UC
 - ciastkove modely udajov
 
+Ondrej and Lubos altogether TODO:
+- kapitola Sumarizacia udajov
+- pozŕiet cely projekt kvoli gramatike (nechce sa mi to vo Worde opravovat :D )
 
 Otázky:
 V diagrame sekvencii, čo by všetko malo byť v argumentoch?
