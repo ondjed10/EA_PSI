@@ -18,16 +18,13 @@ marketingový pracovník schváli.
 - modely udajov pre BP01,BP02,BP03
 - upravit model udajov podla toho na cviku(model upraveny s otazkou)
 - sekvecne diagramy pre vlastne UC chýba len pre UC06
-
-Lubos TODO:
-- ciastkovy diagramy tried pre vlastne UC (3) - zo sekvecneho diagramu
-- upravit sekvecny UC (- alternativne k sekvencnemu diagramu, fragmenty ak nie je schvaleny clanok, dat aj do UC,vyhladanie clanku)
 - stavovy diagram - pre clanok
 - pozriet cely projekt kvoli gramatike
-- kategoria von z triedy
+
+Lubos TODO:
+- upravit sekvecny UC (- alternativne k sekvencnemu diagramu, fragmenty ak nie je schvaleny clanok, dat aj do UC,vyhladanie clanku) = nevydalo nevedel som co
 
 Ondrej TODO:
-
 
 
 
